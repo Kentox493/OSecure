@@ -62,7 +62,7 @@ class FirewallManager(QMainWindow):
         self.initUI()
         
     def initUI(self):
-        self.setWindowTitle("Professional Cybersecurity Firewall Manager")
+        self.setWindowTitle("OSecure Firewall Manager")
         self.setMinimumSize(1200, 800)
         
         # Set window style
