@@ -192,7 +192,7 @@ We welcome contributions! Here's how you can help:
 
 ```bash
 # Setup development environment
-git clone https://github.com/yourusername/OSecure.git
+git clone https://github.com/Kentox493/OSecure.git
 cd OSecure
 python -m venv venv
 source venv/bin/activate
