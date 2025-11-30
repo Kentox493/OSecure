@@ -2,6 +2,8 @@
 
 # 🛡️ OSecure
 ### Open Source Secure Firewall
+![OSecure Logo](osecure.png)
+
 
 [![Linux](https://img.shields.io/badge/Platform-Linux-FCC624?style=flat&logo=linux)](https://www.linux.org/)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python)](https://www.python.org/)
